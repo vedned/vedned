@@ -1,6 +1,6 @@
 ### Hello, My name is Allef 👋
 
-![Allef GitHub stats](https://github-readme-stats.vercel.app/api?username=vedned&show_icons=true&theme=radical)
+![Allef's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedned&show_icons=true&theme=radical)
 
 ### My Specialties - Technologies
 <div style="display: inline_block"><br/>
