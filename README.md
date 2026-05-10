@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&width=435&lines=Hello%2C+My+name+is+Allef+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Allef SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F715&width=435&lines=Hello%2C+My+name+is+Allef+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![Allef Stats](https://streak-stats.demolab.com?user=vedned&theme=gotham&hide_border=true)
 
