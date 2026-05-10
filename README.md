@@ -1,4 +1,4 @@
-### Hello, My name is Allef 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&width=435&lines=Hello%2C+My+name+is+Allef+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![Allef's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedned&show_icons=true&theme=radical)
 
