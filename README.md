@@ -21,4 +21,4 @@
 
 Currently, i develop automation systems for internal business processes, focusing on api integration, data handling, and dashboard creation. in addition, i work with games, game apis, game engines, and also develop intelligent ai solutions, as well as smarter prompts for users who are vibe coders. i always aim to optimize performance, scalability, and security in the projects i build.
 
-![snake animation](https://github.com/vedned/vedned/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/vedned/vedned/blob/output/github-snake-dark.svg)
