@@ -1,37 +1,73 @@
-[![Allef SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F715&width=435&lines=Hello%2C+My+name+is+Allef+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Allef SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F715&width=500&lines=Hello%2C+I'm+Allef+%F0%9F%91%8B;Automation+Developer;Open+Source+Contributor;AI+%26+Game+Development)](https://git.io/typing-svg)
 
 ![Allef Stats](https://streak-stats.demolab.com?user=vedned&theme=gotham&hide_border=true)
 
-## 🚀 About Me
+# 👋 About Me
 
-I'm an independent developer passionate about automation, artificial intelligence, and open-source software.
+I'm a software developer specializing in automation, artificial intelligence, game development, and open-source software.
 
-- ⚙️ Building automation systems for internal business processes.
-- 🔗 Developing API integrations, dashboards, and data processing solutions.
-- 🎮 Working with games, game APIs, and game engines.
-- 🤖 Creating AI-powered applications and prompt engineering solutions.
-- 🌍 Contributing to the Firestorm Viewer and Second Life open-source ecosystem.
-- 🛡️ Focused on secure, scalable, and high-performance software.
+My work is centered around designing reliable solutions that simplify complex workflows, eliminate repetitive tasks, and improve productivity. I enjoy creating software that solves real-world problems through automation, efficient architectures, and well-designed integrations.
+
+Over the years I've worked on projects involving:
+
+- ⚙️ Business and industrial automation
+- 🔗 REST API integration and backend services
+- 📊 Data processing, visualization, and dashboard development
+- 🤖 Artificial Intelligence and Prompt Engineering
+- 🎮 Games, Game APIs and Game Engine development
+- 🌐 Discord Bots and automation tools
+- 🛠️ Desktop applications and custom utilities
+- ☁️ Web services and cloud integrations
+
+Besides my personal projects, I actively contribute to open-source communities, helping improve software used by thousands of users worldwide.
+
+Currently I'm contributing to:
+
+- 🔥 Firestorm Viewer
+- 🌍 Second Life Viewer
+- 📝 Localization and translation projects
+- 🐞 Bug fixing, feature implementation and code improvements
 
 ---
 
-## 💻 Technologies
+# 💻 Tech Stack
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
-    <img align="center" alt="json" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img align="center" alt="xml" src="https://img.shields.io/badge/XML-005FAD.svg?style=for-the-badge&logo=XML&logoColor=white" />
-    <img align="center" alt="openssl" src="https://img.shields.io/badge/OpenSSL-721412.svg?style=for-the-badge&logo=OpenSSL&logoColor=white" />
-    <img align="center" alt="env" src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" />
-    <img align="center" alt="cpp" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-    <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-000080.svg?style=for-the-badge&logo=Lua&logoColor=white" />
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" />
-    <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lua-000080.svg?style=for-the-badge&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/XML-005FAD.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenSSL-721412.svg?style=for-the-badge&logo=openssl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dotenv-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black"/>
+<img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+
 </div>
+
+---
+
+# 🎯 What I'm currently focusing on
+
+- Building scalable automation platforms.
+- Developing AI-powered applications.
+- Improving Firestorm and Second Life.
+- Creating advanced Discord bots.
+- Reverse engineering and protocol analysis.
+- Dashboard and monitoring systems.
+- Performance optimization.
+- Secure software architecture.
+
+---
+
+# 💡 Philosophy
+
+> Good software should automate repetitive work, be easy to maintain, and solve real problems without unnecessary complexity.
 
 ---
 
