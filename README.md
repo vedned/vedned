@@ -1,32 +1,65 @@
-[![Allef SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F715&width=500&lines=Hello%2C+I'm+Allef+%F0%9F%91%8B;Automation+Developer;Open+Source+Contributor;AI+%26+Game+Development)](https://git.io/typing-svg)
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Allef Banner">
+</p>
 
-![Allef Stats](https://streak-stats.demolab.com?user=vedned&theme=gotham&hide_border=true)
+<h1 align="center">Hi, I'm Allef 👋</h1>
 
-# 👋 About Me
+<p align="center">
+Software Developer • Automation • Artificial Intelligence • Game Development • Open Source
+</p>
 
-I'm a software developer specializing in automation, artificial intelligence, game development, and open-source software.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vedned&theme=gotham&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-My work is centered around designing reliable solutions that simplify complex workflows, eliminate repetitive tasks, and improve productivity. I enjoy creating software that solves real-world problems through automation, efficient architectures, and well-designed integrations.
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedned&show_icons=true&theme=gotham&hide_border=true" />
+</p>
 
-Over the years I've worked on projects involving:
+<p align="center">
+  <a href="https://github.com/vedned">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/allef.">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🚀 About Me
+
+# 🚀 About Me
+
+I'm a software developer focused on building automation systems, AI-powered solutions, game development tools, and open-source software.
+
+My passion is designing reliable software that simplifies complex workflows through automation, intelligent integrations, and scalable architectures. I enjoy turning ideas into practical solutions by combining software engineering, artificial intelligence, APIs, and data-driven systems to deliver secure, scalable, and high-performance applications.
+
+My main areas of expertise include:
 
 - ⚙️ Business and industrial automation
-- 🔗 REST API integration and backend services
-- 📊 Data processing, visualization, and dashboard development
 - 🤖 Artificial Intelligence and Prompt Engineering
-- 🎮 Games, Game APIs and Game Engine development
-- 🌐 Discord Bots and automation tools
-- 🛠️ Desktop applications and custom utilities
-- ☁️ Web services and cloud integrations
+- 🔗 REST APIs and third-party integrations
+- 📊 Data processing, analytics, and dashboard development
+- 🎮 Game development, Game APIs, and Game Engines
+- 🌐 Discord bots and automation platforms
+- 🖥️ Desktop applications and custom tools
+- ☁️ Cloud services and backend infrastructure
+- 🔒 Software architecture, optimization, and security
 
-Besides my personal projects, I actively contribute to open-source communities, helping improve software used by thousands of users worldwide.
+Besides developing personal projects, I actively contribute to open-source software, helping improve applications used by thousands of users around the world.
 
-Currently I'm contributing to:
+---
+
+# 🌍 Open Source Contributions
+
+Currently contributing to:
 
 - 🔥 Firestorm Viewer
 - 🌍 Second Life Viewer
-- 📝 Localization and translation projects
-- 🐞 Bug fixing, feature implementation and code improvements
+- 🌐 Community localization and translations
+- 🐞 Bug fixes and feature development
+- 🚀 Performance improvements and code quality
 
 ---
 
@@ -34,41 +67,57 @@ Currently I'm contributing to:
 
 <div align="center">
 
+### Languages
+
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lua-000080.svg?style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML-005FAD.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge"/>
+
+### Backend & APIs
+
+<img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenSSL-721412.svg?style=for-the-badge&logo=openssl&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XML-005FAD.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dotenv-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black"/>
+
+### Platforms & Tools
+
 <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🎯 What I'm currently focusing on
+# 🎯 Current Focus
 
-- Building scalable automation platforms.
-- Developing AI-powered applications.
-- Improving Firestorm and Second Life.
-- Creating advanced Discord bots.
-- Reverse engineering and protocol analysis.
-- Dashboard and monitoring systems.
-- Performance optimization.
-- Secure software architecture.
+I'm currently focused on developing modern software solutions involving:
+
+- AI-powered applications
+- Automation platforms
+- Internal business systems
+- Industrial automation
+- API integrations
+- Data engineering
+- Dashboard development
+- Game development and Game APIs
+- Discord automation
+- Open-source contributions
+- Software performance optimization
+- Secure and scalable architectures
 
 ---
 
-# 💡 Philosophy
+# 💡 Development Philosophy
 
-> Good software should automate repetitive work, be easy to maintain, and solve real problems without unnecessary complexity.
+> Great software is more than working code. It should be reliable, maintainable, secure, scalable, and designed to solve real problems through simplicity and automation.
 
 ---
 
-![snake animation](https://github.com/vedned/vedned/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/vedned/vedned/blob/output/github-snake-dark.svg" alt="Snake Animation">
+</p>
