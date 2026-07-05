@@ -29,8 +29,6 @@ Software Developer • Automation • Artificial Intelligence • Game Developme
 
 # 🚀 About Me
 
-# 🚀 About Me
-
 I'm a software developer focused on building automation systems, AI-powered solutions, game development tools, and open-source software.
 
 My passion is designing reliable software that simplifies complex workflows through automation, intelligent integrations, and scalable architectures. I enjoy turning ideas into practical solutions by combining software engineering, artificial intelligence, APIs, and data-driven systems to deliver secure, scalable, and high-performance applications.
